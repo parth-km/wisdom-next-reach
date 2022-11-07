@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@mantine/core": "^5.7.1",
+    "@mantine/dates": "^5.7.1",
+    "@mantine/hooks": "^5.7.1",
+    "@mantine/notifications": "^5.7.1",
+    "@reach-sh/stdlib": "^0.1.12-rc.8",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.8",
+    "dayjs": "^1.11.6",
     "eslint": "8.27.0",
     "eslint-config-next": "13.0.2",
     "next": "13.0.2",
